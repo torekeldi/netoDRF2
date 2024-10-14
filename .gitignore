@@ -1,0 +1,4 @@
+.idea/
+.venv/
+logistic/__pycache__/
+stocks_products/__pycache__/
